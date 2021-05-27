@@ -1,0 +1,18 @@
+name: FriendPLuginMC
+main: fr.devthib.friendpluginmc.Main
+version: 1.0
+commands:
+  hdv:
+  alert:
+  money:
+  sell:
+  sethome:
+  home:
+  delhome:
+  pay:
+  repair:
+  spawn:
+  setspawn:
+  craft:
+  anvil:
+  e:
